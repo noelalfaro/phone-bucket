@@ -4,7 +4,7 @@ Submitted by: Noel Alfaro
 
 About this web app: This web app uses Node.js, Express.js, React, and a PostgresSQL database to allow users to view, edit, create, and delete phone items. More specifically, Users can view custom phones built with different pieces and create more or edit and delete the ones already created.
 
-Time spent: ~5~ hours
+Time spent: ~4.5~ hours
 
 ## Required Features
 
@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='./kapture.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='kapture.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
