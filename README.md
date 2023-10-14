@@ -4,7 +4,7 @@ Submitted by: Noel Alfaro
 
 About this web app: This web app uses Node.js, Express.js, React, and a PostgresSQL database to allow users to view, edit, create, and delete phone items. More specifically, Users can view custom phones built with different pieces and create more or edit and delete the ones already created.
 
-Time spent: ~4~ hours
+Time spent: ~5~ hours
 
 ## Required Features
 
